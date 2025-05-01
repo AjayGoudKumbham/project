@@ -7,7 +7,7 @@
  */
 
 // Google Gemini API - Get from https://ai.google.dev/
-export const GEMINI_API_KEY = "AIzaSyDiGBrXN9z3wuhJXBz3E1zS7hGH4atqugk";
+export const GEMINI_API_KEY = "";
 
 // Document processing API keys (if needed)
 export const DOC_PROCESSING_API_KEY = "";
